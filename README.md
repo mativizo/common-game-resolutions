@@ -64,3 +64,17 @@ List was updated to **January 2024** results of the survey.
 
 
 Remember to test responsiveness of your game. Test your game across various resolutions. Responsive UI design is crucial to accommodate different screen sizes.
+
+
+### About Resolution Scaling
+
+##### What is it?
+Resolution scaling allows you to adjust the output resolution dynamically to improve performance.
+
+##### How does it work?
+When your GPU encounters demanding areas, resolution scaling lowers the output resolution.
+
+##### Benefits
+- Focusing on gameplay without compromising image quality.
+- Enhancing visuals without requiring more powerful hardware.
+- Reducing GPU power consumption and memory usage.
