@@ -6,9 +6,9 @@ What are common game resolutions? Take a look at this repository, which contains
 - [List of the resolutions](#common-resolutions)
 - [The most popular resolutions by Steam](#popular-resolutions-by-steam)
 - [About Resolution Scaling](#about-resolution-scaling)
- - [What is it?](#what-is-it)
- - [How does it work?](#how-does-it-work)
- - [Benefits](#benefits)
+  - [What is it?](#what-is-it)
+  - [How does it work?](#how-does-it-work)
+  - [Benefits](#benefits)
 
 
 ### Common resolutions
